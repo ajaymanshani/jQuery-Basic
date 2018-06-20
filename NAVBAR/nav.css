@@ -1,0 +1,22 @@
+.flex-container {
+  display: flex;
+  justify-content: center;
+  background-color: Black;
+  flex-wrap: wrap;
+  
+}
+
+.flex-container > div {
+  background-color: Red;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 25px;
+  font-size: 15px;
+  flex-wrap:wrap;
+}
+
+a {
+    color: white;
+}
+
